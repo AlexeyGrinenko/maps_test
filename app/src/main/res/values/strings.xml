@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Maps for Woxapp</string>
+    <string name="title_activity_maps">Maps for Woxapp</string>
+    <string name="text_go">Go</string>
+    <string name="text_history">History</string>
+
+    <string name="text_start_address">Type start address</string>
+    <string name="text_end_address">Type end address</string>
+    <string name="text_transition_point">Enter transition point</string>
+    <string name="text_go_error">Enter Start and End Addresses</string>
+
+</resources>
